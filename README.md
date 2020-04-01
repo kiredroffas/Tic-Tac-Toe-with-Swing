@@ -20,3 +20,25 @@
 * 0 = The program has just started/been reset and START has not been pressed yet, makes welcome text and JPanel components appear
 * 1 = START has been pressed and it is user's/computer's turn, makes game board and markers appear (along w/ other JPanel components)
 * 2 = A winner has been detected, makes the game winning line appear (along w/ JPanel components,board, and markers)
+## Screenshots
+* Choose to be X or O
+![Alt text](/screenshots/sc1.png?raw=true "sc1")
+![Alt text](/screenshots/sc2.png?raw=true "sc2")
+* Choose for user or comp to go first
+![Alt text](/screenshots/sc3.png?raw=true "sc3")
+![Alt text](/screenshots/sc4.png?raw=true "sc4")
+* Click START to begin the game
+![Alt text](/screenshots/sc5.png?raw=true "sc5")
+* Once you click a square, move the mouse for the comp to make a move
+![Alt text](/screenshots/sc6.png?raw=true "sc6")
+* Error checking prevents clicking a previously marked square or outside the game grid
+![Alt text](/screenshots/err1.png?raw=true "err1")
+![Alt text](/screenshots/err2.png?raw=true "err2")
+* If nobody wins before all spaces are filled, a draw is declared
+![Alt text](/screenshots/sc7.png?raw=true "sc7")
+* Example User win
+![Alt text](/screenshots/sc8.png?raw=true "sc8")
+* Example Comp win
+![Alt text](/screenshots/sc9.png?raw=true "sc9")
+* Click Reset to start over, and change settings if desired
+![Alt text](/screenshots/sc10.png?raw=true "sc10")
